@@ -1,0 +1,14 @@
+lottie-player{
+  width: 300px;
+  margin: 0 auto;
+  padding-bottom: inherit;
+}
+
+#footer{
+  padding: 1%;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
