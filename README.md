@@ -4,6 +4,8 @@ Glitch Guru is an software bug classifier, which can tell whether a ticket is a 
 
 The model that this application uses, is powered by OneAPI libraries for faster inference and other benefits.
 
+<img src="https://user-images.githubusercontent.com/25586296/227501224-59e10c2c-80fa-44bc-af0d-6184514588e8.png" height=400/>
+
 ## Video
 
 https://drive.google.com/file/d/10TWvMwMLxBaly1npYiAQLV_0cAAAiGND/view?usp=share_link
