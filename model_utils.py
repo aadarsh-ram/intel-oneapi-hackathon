@@ -3,7 +3,6 @@ def get_tfidf_features(title, description, loaded_vec, selector):
     Performs TF-IDF vectorization on the given text
     """
     # Boosts corpus by adding description 3 times
-    print (title, description)
     corpus = [" ".join([title, description, description, description])]
 
     X = selector.transform(loaded_vec.transform(corpus))
