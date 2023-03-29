@@ -42,7 +42,7 @@ The following steps have been followed to create the model:
         | Validation Loss          | 0.2478 |
     - Hence, the MLPClassifier performed the best among all the classifiers. This classifier also beats the methods presented in the dataset paper.
 
-All the code related to model analysis is present in this [Jupyter Notebook](./BugClassificationFinal.ipynb).
+All the code related to model analysis is present in this [Jupyter Notebook](./FinalBugClassification.ipynb).
 
 ## Usage
 
