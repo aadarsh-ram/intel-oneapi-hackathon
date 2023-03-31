@@ -25,14 +25,14 @@ The following steps have been followed to create the model:
     - Multiple classifiers were tested on this dataset, in order to find the one which is most optimal.
     - The time difference between OneAPI and non-OneAPI versions of these classifiers have also been tested.
     - Results:        
-        | Classifiers         | Precision  |
-        |---------------------|------------|
-        | MLPClassifier       | **0.9094** |
-        | SVM                 | 0.8945     |
-        | SGDClassifier       | 0.8825     |
-        | LightGBM            | 0.8402     |
-        | Logistic Regression | 0.7740     |
-        | XGBoost             | 0.81       |
+        | Classifiers            | Precision  |
+        |------------------------|------------|
+        | MLPClassifier          | **0.9094** |
+        | SVM                    | 0.8945     |
+        | SGDClassifier          | 0.8825     |
+        | LightGBM               | 0.8402     |
+        | Logistic Regression    | 0.7740     |
+        | Gradient Boosted Trees | 0.8100     |
     - A neural network with 4 Dense Layers, Dropout Layers and PReLU Activation Layers was also trained.
         | Metric                   | Value  |
         |--------------------------|--------|
